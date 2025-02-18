@@ -4,4 +4,4 @@
 Quiero desarrollar este proyecto al máximo, manteniéndome a la vanguardia. 
 
 Quiero tener un equipo 
-prueba
+prueba testing 
